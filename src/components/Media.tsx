@@ -46,7 +46,7 @@ export default function Media() {
       </div>
 
       <div className=" text-center">
-        我叫李永飞
+        叼毛专用
       </div>
     </div>
   );
