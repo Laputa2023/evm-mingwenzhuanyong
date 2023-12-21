@@ -3,7 +3,22 @@ import Link from "next/link";
 
 export default function Media() {
   const mediaList = [
-    
+    {
+      title:,
+      linkText:,
+      link:,
+    },
+    {
+      title:,
+      linkText:,
+      link:,
+    },
+    {
+      title:,
+      linkText:,
+      link:,
+    },
+  ];
 
   return (
     <div className=" py-4">
@@ -31,7 +46,7 @@ export default function Media() {
       </div>
 
       <div className=" text-center">
-        叫我李永飞
+        我叫李永飞
       </div>
     </div>
   );
