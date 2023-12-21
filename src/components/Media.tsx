@@ -4,19 +4,19 @@ import Link from "next/link";
 export default function Media() {
   const mediaList = [
     {
-      title:,
-      linkText:,
-      link:,
+      title: "",
+      linkText: "",
+      link: "",
     },
     {
-      title:,
-      linkText:,
-      link:,
+      title: "",
+      linkText: "",
+      link: "",
     },
     {
-      title:,
-      linkText:,
-      link:,
+      title: "",
+      linkText: "",
+      link: "",
     },
   ];
 
